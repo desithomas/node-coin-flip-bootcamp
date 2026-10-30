@@ -2,8 +2,10 @@
 
 ### Goal: Create a simple web application that uses the fs and http modules. Use http to create the server and fs to read your html file. Include vanilla ES6 js in a script tag at the bottom of your html file. Try creating a coin flip guessing game
 
-### How to submit your code for review:
+This is a coin flip game. The point of this game is to pick a coin side, "Heads" or "Tails" and clicking the button to see which side was randomly picked. 
 
-You should have node installed on your computer. 
+To run this app, clone the git repo and then view index.html in your browser. 
 
-run the program via localhost:8000 in your browser. 
+Currently debugfging: Coin flip logic. 
+
+Tech Stack Used: HTML CSS JS
